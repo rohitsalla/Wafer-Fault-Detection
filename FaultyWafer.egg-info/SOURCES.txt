@@ -1,5 +1,3 @@
-LICENSE
-README.md
 setup.py
 FaultyWafer.egg-info/PKG-INFO
 FaultyWafer.egg-info/SOURCES.txt

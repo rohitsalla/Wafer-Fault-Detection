@@ -1,4 +1,4 @@
-==> 2023-10-20 09:56:59 <==
+==> 2023-10-22 23:23:50 <==
 # cmd: C:\ProgramData\anaconda3\Scripts\conda-script.py create --prefix ./env python==3.6.9 -y
 # conda version: 23.3.1
 +defaults/noarch::wheel-0.37.1-pyhd3eb1b0_0
