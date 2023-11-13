@@ -39,13 +39,14 @@ In electronics, a [wafer](<https://en.wikipedia.org/wiki/Wafer_(electronics)>) (
 ## Screenshots
 
 ![Example screenshot](./reports/figures/UI.PNG)
+![Alt text](<Screenshot 2023-10-20 110225.png>)
 
 ## Setup
 
 Clone this repo using
 
 ```sh
-git clone https://github.com/Anil-45/Faulty_wafer_detection.git
+git clone https://github.com/rohitsalla/Wafer-Fault-Detection.git
 ```
 
 Install the required modules using
