@@ -38,7 +38,7 @@ In electronics, a [wafer](<https://en.wikipedia.org/wiki/Wafer_(electronics)>) (
 
 ## Screenshots
 
-![Example screenshot](./reports/figures/UI.PNG)(./reports/figures/result.png)
+![Example screenshot](./reports/figures/UI.PNG)![Example screenshot](./reports/figures/result.png)
 
 ## Setup
 
